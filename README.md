@@ -17,16 +17,18 @@ And more...
 
 ## Notebooks
 *Segmentation*
-- FRM and K-Means Segmentation: customer-segmentation.ipynb
+- FRM and K-Means Segmentation:
+  customer-segmentation.ipynb
 
 
 *Classification*
 - Logistic Regression: 
 - Random Forest: 
-- XGBoost: heart-failure-analysis-and-prediction.ipynb
-- Neural Networks: twitter-sentiment-analysis-nlp.ipynb
-  
-                   digit-recognizer-using-tensorflow.ipynb
+- XGBoost:
+  heart-failure-analysis-and-prediction.ipynb
+- Neural Networks:
+  twitter-sentiment-analysis-nlp.ipynb
+  digit-recognizer-using-tensorflow.ipynb
 
 *Regression*
 
