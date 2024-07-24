@@ -21,12 +21,14 @@ And more...
 
 
 *Classification*
-- Logistic Regression: A notebook explaining logistic regression for binary classification.
+- Logistic Regression: 
 - Random Forest: 
 - XGBoost: heart-failure-analysis-and-prediction.ipynb
 - Neural Networks: twitter-sentiment-analysis-nlp.ipynb
+  
                    digit-recognizer-using-tensorflow.ipynb
 
+*Regression*
 
 *Forecasting*
 - ARIMA Forecasting: 
